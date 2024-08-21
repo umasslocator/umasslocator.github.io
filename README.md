@@ -1,2 +1,2 @@
 # umasslocator.github.io
-# first commit
+first commit
